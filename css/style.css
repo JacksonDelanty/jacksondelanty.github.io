@@ -1,8 +1,8 @@
 :root {
     --primaryText: #fff;
-    --secondaryText: #ff015e;
+    --secondaryText: #c97d99;
     --primary: rgba(156, 39, 176, .60);
-    --secondary: rgba(255, 1, 94, .60); 
+    --secondary: rgba(74, 4, 95, 0.6); 
     --buttonHover: rgba(156, 39, 176, .40);
     --smallButtonHover: rgba(0, 0, 0, .25);
 }
@@ -34,7 +34,7 @@ body {
     background-attachment: fixed;
     /* Resizes the background image to cover the entire container */
     background-size: cover;
-    font-family: Futura, Verdana, sans-serif;
+    font-family: "Roboto", sans-serif;
     line-height: 1.5;
     font-size: 18px;
     display: flex;
@@ -189,7 +189,7 @@ img {
 
 .footer {
   font-size: .66em;
-  background-color: rgba(0, 0, 0, .5);
+  background-color: rgba(100, 58, 145, 0.8);
   color: rgba(225, 225, 225, .8);
   text-decoration: none;
   width: 100%;
